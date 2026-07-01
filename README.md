@@ -17,8 +17,8 @@
         <li>👥 I'm looking to collaborate on beginner-friendly open-source projects, full-stack development, AWS cloud projects, DevOps automation, and Generative AI applications. I'm eager to learn, share ideas, and grow through real-world collaboration.</li>
       </ul>
     </td>
-    <td width="40%" align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="internet failure" width="300">
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="internet failure" width="280">
     </td>
   </tr>
 </table>
