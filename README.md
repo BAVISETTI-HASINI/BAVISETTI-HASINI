@@ -38,21 +38,19 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h4>🖥️ Full Stack</h4>
       <p>Java • Spring Boot<br>Python • React • Vue</p>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h4>☁️ Cloud & DevOps</h4>
       <p>AWS • Docker • K8s<br>Linux • CI/CD • IaC</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h4>🗄️ Databases</h4>
       <p>MySQL • MongoDB<br>Firebase • Supabase</p>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <h4>🧠 Generative AI</h4>
       <p>LLMs • Prompt Eng<br>AI Integration</p>
     </td>
