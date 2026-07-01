@@ -15,31 +15,15 @@
       I thrive at the intersection of development, cloud infrastructure, and automation. 
       I believe great software is not just written — it's <em>engineered</em>, <em>deployed</em>, and <em>iterated</em>.
       <br><br>
-      <table>
-        <tr>
-          <td width="30px">📍</td>
-          <td><strong>Based in:</strong> INDIA</td>
-          <td width="30px">💼</td>
-          <td><strong>Looking for:</strong> Full Stack / AWS / DevOps Roles</td>
-        </tr>
-        <tr>
-          <td>📧</td>
-          <td><a href="mailto:hanibavisetti@gmail.com"><strong>hanibavisetti@gmail.com</strong></a></td>
-          <td>🌐</td>
-          <td><a href="http://ai-class-4d5ff.web.app"><strong>My Portfolio</strong></a></td>
-        </tr>
-        <tr>
-          <td>🧠</td>
-          <td colspan="3"><strong>Currently Learning:</strong> Generative AI · LLMs · Prompt Engineering</td>
-        </tr>
-        <tr>
-          <td>🤝</td>
-          <td colspan="3"><strong>Open to:</strong> Full-time · Internship · Freelance · Open Source</td>
-        </tr>
-      </table>
+      📍 <strong>Based in:</strong> INDIA<br>
+      💼 <strong>Looking for:</strong> Full Stack / AWS / DevOps Roles<br>
+      📧 <a href="mailto:hanibavisetti@gmail.com"><strong>hanibavisetti@gmail.com</strong></a><br>
+      🌐 <a href="http://ai-class-4d5ff.web.app"><strong>My Portfolio</strong></a><br>
+      🧠 <strong>Currently Learning:</strong> Generative AI · LLMs · Prompt Engineering<br>
+      🤝 <strong>Open to:</strong> Full-time · Internship · Freelance · Open Source
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" width="280" />
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" width="220" />
       <br><br>
       <em>⚡ "Code. Deploy. Iterate. Repeat."</em>
       <br><br>
@@ -54,19 +38,21 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h4>🖥️ Full Stack</h4>
       <p>Java • Spring Boot<br>Python • React • Vue</p>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h4>☁️ Cloud & DevOps</h4>
       <p>AWS • Docker • K8s<br>Linux • CI/CD • IaC</p>
     </td>
-    <td width="25%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h4>🗄️ Databases</h4>
       <p>MySQL • MongoDB<br>Firebase • Supabase</p>
     </td>
-    <td width="25%" align="center">
+    <td width="50%" align="center">
       <h4>🧠 Generative AI</h4>
       <p>LLMs • Prompt Eng<br>AI Integration</p>
     </td>
@@ -168,7 +154,7 @@
 ## 🎯 Open To
 
 <div align="center">
-  <table width="100%">
+  <table>
     <tr>
       <td align="center">💼 <strong>Full-Time Roles</strong></td>
       <td align="center">🎓 <strong>Internships</strong></td>
