@@ -1,51 +1,49 @@
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" height="40" /> Hi, I'm Hasini Bavisetti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AWS+%26+DevOps+Intern;Generative+AI+Enthusiast;Open+Source+Contributor;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=10B981&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AWS+%26+DevOps+Intern;Generative+AI+Enthusiast;Open+Source+Contributor;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<table>
+<table width="100%">
   <tr>
     <td width="60%">
-      <p>Passionate fresher with a hunger to <strong>build</strong>, <strong>break</strong>, and <strong>learn</strong>. I thrive at the intersection of development, cloud infrastructure, and automation. I believe great software is not just written — it's <em>engineered</em>, <em>deployed</em>, and <em>iterated</em>.</p>
-      
-      <br>
-      
-      <div style="background: #0d1117; padding: 15px 20px; border-radius: 12px; border-left: 4px solid #10b981;">
-        <table>
-          <tr>
-            <td width="30px">📍</td>
-            <td><strong>Based in</strong> INDIA</td>
-            <td width="30px">💼</td>
-            <td><strong>Looking for</strong> Full Stack / AWS / DevOps Roles</td>
-          </tr>
-          <tr>
-            <td>📧</td>
-            <td><a href="mailto:hanibavisetti@gmail.com"><strong>hanibavisetti@gmail.com</strong></a></td>
-            <td>🌐</td>
-            <td><a href="http://ai-class-4d5ff.web.app"><strong>My Portfolio</strong></a></td>
-          </tr>
-          <tr>
-            <td>🧠</td>
-            <td colspan="3"><strong>Currently Learning</strong> Generative AI · LLMs · Prompt Engineering</td>
-          </tr>
-          <tr>
-            <td>🤝</td>
-            <td colspan="3"><strong>Open to</strong> Full-time · Internship · Freelance · Open Source</td>
-          </tr>
-        </table>
-      </div>
+      🚀 Passionate fresher with a hunger to <strong>build</strong>, <strong>break</strong>, and <strong>learn</strong>. 
+      I thrive at the intersection of development, cloud infrastructure, and automation. 
+      I believe great software is not just written — it's <em>engineered</em>, <em>deployed</em>, and <em>iterated</em>.
+      <br><br>
+      <table>
+        <tr>
+          <td width="30px">📍</td>
+          <td><strong>Based in:</strong> INDIA</td>
+          <td width="30px">💼</td>
+          <td><strong>Looking for:</strong> Full Stack / AWS / DevOps Roles</td>
+        </tr>
+        <tr>
+          <td>📧</td>
+          <td><a href="mailto:hanibavisetti@gmail.com"><strong>hanibavisetti@gmail.com</strong></a></td>
+          <td>🌐</td>
+          <td><a href="http://ai-class-4d5ff.web.app"><strong>My Portfolio</strong></a></td>
+        </tr>
+        <tr>
+          <td>🧠</td>
+          <td colspan="3"><strong>Currently Learning:</strong> Generative AI · LLMs · Prompt Engineering</td>
+        </tr>
+        <tr>
+          <td>🤝</td>
+          <td colspan="3"><strong>Open to:</strong> Full-time · Internship · Freelance · Open Source</td>
+        </tr>
+      </table>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" width="280" style="border-radius: 16px; border: 2px solid #10b981;" />
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" width="280" />
       <br><br>
-      <em style="color: #10b981; font-size: 1.1rem;">⚡ "Code. Deploy. Iterate. Repeat."</em>
-      <br>
-      <span style="background: #10b981; color: #000; padding: 4px 12px; border-radius: 20px; font-weight: bold; font-size: 0.85rem;">#AlwaysLearning</span>
+      <em>⚡ "Code. Deploy. Iterate. Repeat."</em>
+      <br><br>
+      <code>#AlwaysLearning</code>
     </td>
   </tr>
 </table>
@@ -54,23 +52,23 @@
 
 ## 💎 My Value Proposition
 
-<table>
+<table width="100%">
   <tr>
-    <td width="25%" align="center" style="background: #0d1117; border-radius: 12px; padding: 15px 5px;">
+    <td width="25%" align="center">
       <h4>🖥️ Full Stack</h4>
-      <p style="font-size: 0.85rem;">Java • Spring Boot<br>Python • React • Vue</p>
+      <p>Java • Spring Boot<br>Python • React • Vue</p>
     </td>
-    <td width="25%" align="center" style="background: #0d1117; border-radius: 12px; padding: 15px 5px;">
+    <td width="25%" align="center">
       <h4>☁️ Cloud & DevOps</h4>
-      <p style="font-size: 0.85rem;">AWS • Docker • K8s<br>Linux • CI/CD • IaC</p>
+      <p>AWS • Docker • K8s<br>Linux • CI/CD • IaC</p>
     </td>
-    <td width="25%" align="center" style="background: #0d1117; border-radius: 12px; padding: 15px 5px;">
+    <td width="25%" align="center">
       <h4>🗄️ Databases</h4>
-      <p style="font-size: 0.85rem;">MySQL • MongoDB<br>Firebase • Supabase</p>
+      <p>MySQL • MongoDB<br>Firebase • Supabase</p>
     </td>
-    <td width="25%" align="center" style="background: #0d1117; border-radius: 12px; padding: 15px 5px;">
+    <td width="25%" align="center">
       <h4>🧠 Generative AI</h4>
-      <p style="font-size: 0.85rem;">LLMs • Prompt Eng<br>AI Integration</p>
+      <p>LLMs • Prompt Eng<br>AI Integration</p>
     </td>
   </tr>
 </table>
@@ -101,24 +99,24 @@
 
 ## 🌟 Why Work With Me?
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" style="padding: 15px; background: #0d1117; border-radius: 12px;">
-      <h4>🚀 <span style="color: #10b981;">Fast Learner</span></h4>
+    <td width="50%">
+      <h4>🚀 Fast Learner</h4>
       <p>I pick up new technologies in days, not weeks. My GitHub shows consistent learning and adaptation.</p>
     </td>
-    <td width="50%" style="padding: 15px; background: #0d1117; border-radius: 12px;">
-      <h4>🔧 <span style="color: #10b981;">Problem Solver</span></h4>
+    <td width="50%">
+      <h4>🔧 Problem Solver</h4>
       <p>I don't just write code — I solve business problems. I enjoy breaking things to understand how to build them better.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" style="padding: 15px; background: #0d1117; border-radius: 12px;">
-      <h4>☁️ <span style="color: #10b981;">Cloud-Native</span></h4>
+    <td width="50%">
+      <h4>☁️ Cloud-Native</h4>
       <p>Every project I build is deployment-ready. I think about scaling, security, and DevOps from day one.</p>
     </td>
-    <td width="50%" style="padding: 15px; background: #0d1117; border-radius: 12px;">
-      <h4>🤝 <span style="color: #10b981;">Collaborative</span></h4>
+    <td width="50%">
+      <h4>🤝 Collaborative</h4>
       <p>I thrive in agile teams, pair programming, and knowledge sharing. Code reviews? Yes, please!</p>
     </td>
   </tr>
@@ -129,10 +127,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAVISETTI-HASINI&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BAVISETTI-HASINI&stroke=ffffff&background=0d1117&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BAVISETTI-HASINI&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=BAVISETTI-HASINI&stroke=ffffff&background=0d1117&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BAVISETTI-HASINI&bg_color=0d1117&color=10b981&line=ef4444&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </div>
@@ -170,20 +168,12 @@
 ## 🎯 Open To
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" style="background: #0d1117; border-radius: 8px; padding: 10px 20px;">
-        💼 <strong>Full-Time Roles</strong>
-      </td>
-      <td align="center" style="background: #0d1117; border-radius: 8px; padding: 10px 20px;">
-        🎓 <strong>Internships</strong>
-      </td>
-      <td align="center" style="background: #0d1117; border-radius: 8px; padding: 10px 20px;">
-        🤝 <strong>Open Source</strong>
-      </td>
-      <td align="center" style="background: #0d1117; border-radius: 8px; padding: 10px 20px;">
-        💡 <strong>Freelance</strong>
-      </td>
+      <td align="center">💼 <strong>Full-Time Roles</strong></td>
+      <td align="center">🎓 <strong>Internships</strong></td>
+      <td align="center">🤝 <strong>Open Source</strong></td>
+      <td align="center">💡 <strong>Freelance</strong></td>
     </tr>
   </table>
 </div>
@@ -191,7 +181,7 @@
 <br>
 
 <div align="center">
-  <h3>💡 <span style="color: #10b981;">"Build something worth deploying. Deploy something worth scaling. Scale something worth iterating."</span></h3>
+  <h3>💡 <em>"Build something worth deploying. Deploy something worth scaling. Scale something worth iterating."</em></h3>
   <p>🚀 Ready to bring innovation, reliability, and passion to your team!</p>
   
   <br>
