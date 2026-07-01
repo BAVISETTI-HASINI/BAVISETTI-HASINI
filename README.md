@@ -1,18 +1,27 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hasini Bavisetti
 
-## Full Stack Developer / AWS / DevOps Intern
+---
 
-Passionate fresher with a hunger to build, break, and learn. I thrive at the intersection of development, cloud infrastructure, and automation. I believe great software is not just written — it's engineered, deployed, and iterated.
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="internet failure" width="300">
-</div>
-
-- 🌍 I'm based in **INDIA**
-- 🖥️ See my portfolio at [MyPortfolio](http://ai-class-4d5ff.web.app)
-- ✉️ You can contact me at [hanibavisetti@gmail.com](mailto:hanibavisetti@gmail.com)
-- 🧠 I'm currently learning **Generative AI**
-- 👥 I'm looking to collaborate on beginner-friendly open-source projects, full-stack development, AWS cloud projects, DevOps automation, and Generative AI applications. I'm eager to learn, share ideas, and grow through real-world collaboration.
+<table>
+  <tr>
+    <td width="60%">
+      <h3>Full Stack Developer / AWS / DevOps Intern</h3>
+      
+      <p>Passionate fresher with a hunger to build, break, and learn. I thrive at the intersection of development, cloud infrastructure, and automation. I believe great software is not just written — it's engineered, deployed, and iterated.</p>
+      
+      <ul>
+        <li>🌍 I'm based in <strong>INDIA</strong></li>
+        <li>🖥️ See my portfolio at <a href="http://ai-class-4d5ff.web.app"><strong>MyPortfolio</strong></a></li>
+        <li>✉️ You can contact me at <a href="mailto:hanibavisetti@gmail.com"><strong>hanibavisetti@gmail.com</strong></a></li>
+        <li>🧠 I'm currently learning <strong>Generative AI</strong></li>
+        <li>👥 I'm looking to collaborate on beginner-friendly open-source projects, full-stack development, AWS cloud projects, DevOps automation, and Generative AI applications. I'm eager to learn, share ideas, and grow through real-world collaboration.</li>
+      </ul>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="internet failure" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
